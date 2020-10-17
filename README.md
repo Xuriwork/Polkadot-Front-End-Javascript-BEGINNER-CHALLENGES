@@ -1,4 +1,12 @@
-## Commands
+## Available Scripts
 
-- `yarn install `
-- `yarn start`
+### Install the dependencies
+
+```
+yarn install
+```
+
+### Runs the app in the development mode
+
+```
+yarn start
